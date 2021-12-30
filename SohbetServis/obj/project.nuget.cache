@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNagcvN0ooZUijkP58zf2Gn+mbBeEWqwLFrEY+3KN+sR2nxEhF7GidtfFHl8Ilsuo0+qwEgZSEl/tiDUPvcVxg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Alpin\\source\\repos\\SohbetServis\\SohbetServis\\SohbetServis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\5.0.13\\microsoft.aspnetcore.authentication.certificate.5.0.13.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alpin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
